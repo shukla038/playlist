@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Live Demo : [https://shukla038.github.io/aman-react-redux-boilerplate/](https://shukla038.github.io/aman-react-redux-boilerplate/)
@@ -71,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# playlist
+>>>>>>> a4997c953b11654884b4483cc08a23afc1fe2a42
