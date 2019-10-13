@@ -1,10 +1,8 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo : [https://shukla038.github.io/aman-react-redux-boilerplate/](https://shukla038.github.io/aman-react-redux-boilerplate/)
+Live Demo : [https://shukla038.github.io/playlist/](https://shukla038.github.io/playlist/)
 
-UserName : amanshukla_456
-Password : 1234567
 
 ## Available Scripts
 
