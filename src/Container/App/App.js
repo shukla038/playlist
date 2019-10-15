@@ -3,7 +3,6 @@ import { Switch, Route } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
 import HomePage from 'Container/HomePage/Lodable'
-import DuplicateArray from 'Container/DuplicateArray/Lodable'
 import 'styles/globalStyle.scss';
 
 function App(props) {
@@ -15,7 +14,6 @@ function App(props) {
       <Switch>
         <Route exact path='/' component={HomePage}/>
         <Route path='/home' component={HomePage}/>
-        <Route path='/playlist/duplicate-array' component={DuplicateArray}/>
       </Switch>
     </div>
   );
