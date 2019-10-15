@@ -15,7 +15,7 @@ function App(props) {
       <Switch>
         <Route exact path='/' component={HomePage}/>
         <Route path='/home' component={HomePage}/>
-        <Route path='/duplicate-array' component={DuplicateArray}/>
+        <Route path='/playlist/duplicate-array' component={DuplicateArray}/>
       </Switch>
     </div>
   );
